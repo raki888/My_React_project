@@ -1,8 +1,8 @@
 {
+  "homepage": "https://raki888.github.io/My_React_project",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raki888.github.io/My_React_project",
   "dependencies": {
     "build": "^0.1.4",
     "react": "^18.2.0",
